@@ -168,7 +168,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 .site-navigation li { list-style: none; font-size: .875em; font-variant: small-caps; margin: 0; }
 .site-navigation li.active a { text-decoration: underline; }
 
-.site-navigation a { display: block; padding: .25em .5em; text-decoration: none; transition: opacity .125s ease-in-out; }
+.site-navigation a { display: block; padding: .25em 1.5em; text-decoration: none; transition: opacity .125s ease-in-out; }
 .site-navigation a:hover, .site-navigation a:focus { opacity: 1; }
 
 .post-list { margin: 1em 0; list-style: none; }
